@@ -45,5 +45,6 @@ It becomes easy to  **debug and audit** them when they can be interpreted.
 
 ##Part-2
 
-![alt text](http://url/to/ml_ai.png)
+![alt text](https://github.com/Prathi20/ml_ai.jpg?raw=true)
+
 
