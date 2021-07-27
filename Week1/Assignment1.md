@@ -27,6 +27,8 @@ If the model is correct it meets the certain assumptions
 
 Linear regression model being an interpretable machine learning makes us know **why** a certain prediction is made.
 
+
+
 It helps ease the curious minds and facilitates further learning.
 
 **Algorithmic product recommendation** is an example.
@@ -40,4 +42,8 @@ Interpretability is a useful *debugging tool for detecting bias* in Linear Regre
 Explanations and interpreatbility helps **manage social interactions**.
 
 It becomes easy to  **debug and audit** them when they can be interpreted.
+
+##Part-2
+
+![alt text](http://url/to/ml_ai.png)
 
