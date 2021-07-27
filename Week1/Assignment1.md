@@ -1,5 +1,7 @@
 #ASSIGNMENT-1
+
 ##Part-1
+
 1.	Difference between MLOps and AIOps
 
 - AIOps involves overcoming difficulties and issues involving **IT Operations** whereas MLOps deals with simplification of **management, logistics and deployment** of machine learning models between the ml researchers and operations teams
