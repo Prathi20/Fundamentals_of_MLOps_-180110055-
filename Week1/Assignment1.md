@@ -45,6 +45,7 @@ It becomes easy to  **debug and audit** them when they can be interpreted.
 
 ##Part-2
 
-![alt text](https://github.com/Prathi20/images/blob/ml_ai.jpg?raw=true)
+![ml_ai](https://user-images.githubusercontent.com/48407607/127181670-7a41ec97-fb6a-4def-99da-1d1c0f75301e.png)
+
 
 
